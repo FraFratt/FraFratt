@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">Frontend developer from Argentina 🇦🇷</h3>
+<h3 align="center">Frontend developer from Argentina</h3>
 
 - 🌱 I’m c̵u̵r̵r̵e̵n̵t̵l̵y̵  always learning **JavaScript & React**
 
