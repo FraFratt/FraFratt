@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/frafratt" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/2111/2111351.png" alt="frafratt" height="30" width="40" /></a>
+<a href="https://codepen.io/frafratt" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/24/2111/2111351.png" alt="frafratt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franco-frattaroli-b658521b0" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="franco-frattaroli-b658521b0" height="30" width="40" /></a>
 </p>
 
