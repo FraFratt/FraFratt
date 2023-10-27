@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/frafratt" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/codepen.png" alt="frafratt" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/franco-frattaroli/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="franco-frattaroli-b658521b0" height="30" width="40" /></a>
+<a href="https://codepen.io/frafratt" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/codepen.png" alt="frafratt" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
